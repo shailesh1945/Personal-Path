@@ -38,38 +38,38 @@
 ### 👨‍💼 Admin Panel
 
 **1. Login Page**  
-![Admin Login](screenshots/admin-login.png)
+![Admin Login](screenshots/login.png)
 
 **2. Dashboard**  
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 **3. Create New Assessment**  
-![Create Assessment](screenshots/create-assessment.png)
+![Create Assessment](screenshots/create_new_assessment.png)
 
 ---
 
 ### 👨‍🎓 Student Section
 
 **1. Login Page**  
-![Student Login](screenshots/student-login.png)
+![Student Login](screenshots/login.png)
 
 **2. Dashboard**  
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student Dashboard](screenshots/student_dashboard.png)
 
 **3. Available Assessments**  
-![Available Assessments](screenshots/available-assessments.png)
+![Available Assessments](screenshots/available_assessments.png)
 
 **4. Assessment History**  
-![Assessment History](screenshots/assessment-history.png)
+![Assessment History](screenshots/assessment_history.png)
 
 **5. Personalized Learning Recommendations**  
-![Learning Recommendations](screenshots/personalized-recommendations.png)
+![Learning Recommendations](screenshots/personal_recommendation.png)
 
 **6. Generated Roadmap**  
-![Generated Roadmap](screenshots/roadmap.png)
+![Generated Roadmap](screenshots/pathway.png)
 
 **7. Video Example / Content**  
-![YouTube Video](screenshots/youtube-video.png)
+![YouTube Video](screenshots/youtube.png)
 
 📽 **Live Demo Video:**  
 [![Watch Demo on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
