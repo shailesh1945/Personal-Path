@@ -24,8 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
+- **Frontend:** React.js   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
           
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
