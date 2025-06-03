@@ -44,7 +44,7 @@
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 
 **3. Create New Assessment**  
-![Create Assessment](screenshots/create_new_assessment.png)
+![Create Assessment](screenshots/craeate_new_assessment.png)
 
 ---
 
@@ -57,13 +57,13 @@
 ![Student Dashboard](screenshots/student_dashboard.png)
 
 **3. Available Assessments**  
-![Available Assessments](screenshots/available_assessments.png)
+![Available Assessments](screenshots/available_assessment.png)
 
 **4. Assessment History**  
 ![Assessment History](screenshots/assessment_history.png)
 
 **5. Personalized Learning Recommendations**  
-![Learning Recommendations](screenshots/personal_recommendation.png)
+![Learning Recommendations](screenshots/personal_recommondation.png)
 
 **6. Generated Roadmap**  
 ![Generated Roadmap](screenshots/pathway.png)
