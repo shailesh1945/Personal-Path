@@ -33,7 +33,7 @@
 
 ---
 
-## 📸 Screenshots & Demo
+## 📸 Screenshots
 
 ### 👨‍💼 Admin Panel
 
@@ -70,9 +70,6 @@
 
 **7. Video Example / Content**  
 ![YouTube Video](screenshots/youtube.png)
-
-📽 **Live Demo Video:**  
-[![Watch Demo on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
